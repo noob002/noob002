@@ -1,10 +1,11 @@
- <div align="center">
- 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Enjoy!)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob002)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com/?user=noob002)](https://git.io/streak-stats)
+ 
 
+ <div align="center">
 <br>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noob002&theme=nord_bright)  
 <br><br>
