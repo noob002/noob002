@@ -11,7 +11,7 @@
 <br><br>
 ![](https://raw.githubusercontent.com/noob002/github-stats-transparent/output/generated/languages.svg)
 
-![]<script src="https://gist.github.com/noob002/dbaebc58205aa9562daad8c9aa7b8e56.js"></script>
+![](https://gist.github.com/dbaebc58205aa9562daad8c9aa7b8e56.git)
 
 <!--
 **noob002/noob002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
