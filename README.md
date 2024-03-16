@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob002)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com/?user=noob002)](https://git.io/streak-stats)
  
-
+![](https://dcbadge.vercel.app/api/shield/550089620675756052?logoColor=presence)
 
 <br>
 
@@ -13,7 +13,6 @@
 <br><br>
 ![](https://raw.githubusercontent.com/noob002/github-stats-transparent/output/generated/languages.svg)
 
-![](https://dcbadge.vercel.app/api/shield/550089620675756052?logoColor=presence)
 
 ![](https://gist.github.com/dbaebc58205aa9562daad8c9aa7b8e56.git)
 
