@@ -10,6 +10,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=noob002)](https://git.io/streak-stats) 
 
+</div>
 
 ![](https://dcbadge.vercel.app/api/shield/550089620675756052?logoColor=presence)
 
