@@ -13,6 +13,8 @@
 <br><br>
 ![](https://raw.githubusercontent.com/noob002/github-stats-transparent/output/generated/languages.svg)
 
+![](https://dcbadge.vercel.app/api/shield/550089620675756052)
+
 ![](https://gist.github.com/dbaebc58205aa9562daad8c9aa7b8e56.git)
 
 <!--
