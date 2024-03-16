@@ -9,8 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noob002&theme=nord_bright)  
 <br><br>
 ![](https://raw.githubusercontent.com/noob002/github-stats-transparent/output/generated/languages.svg)
-<br><br>
-![](https://raw.githubusercontent.com/noob002/github-stats/master/generated/overview.svg#gh-dark-mode-only)  ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 <!--
 **noob002/noob002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
