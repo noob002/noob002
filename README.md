@@ -1,16 +1,15 @@
 🚧Under construction🚧
 
-</center>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Enjoy!)](https://git.io/typing-svg)
 
-</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob002)](https://github.com/anuraghazra/github-readme-stats)   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=noob002)](https://git.io/streak-stats) 
 
-</div>
+
 
 ![](https://dcbadge.vercel.app/api/shield/550089620675756052?logoColor=presence)
 
@@ -24,6 +23,7 @@
 
 ![](https://gist.github.com/dbaebc58205aa9562daad8c9aa7b8e56.git)
 
+</div>
 <!--
 **noob002/noob002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
