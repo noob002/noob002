@@ -1,6 +1,6 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-### Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob002)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **noob002/noob002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
