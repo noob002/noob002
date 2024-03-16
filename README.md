@@ -5,7 +5,7 @@
 
 <br><br><br>
 
-  <a ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noob002&theme=nord_bright)  
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noob002&theme=nord_bright)  
 ![](https://raw.githubusercontent.com/noob002/github-stats-transparent/output/generated/languages.svg)
 
 
