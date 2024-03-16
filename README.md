@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob002)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **noob002/noob002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
